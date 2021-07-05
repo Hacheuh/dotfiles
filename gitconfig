@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hmgascuel@msn.com
+	name = Hadrien Gascuel
